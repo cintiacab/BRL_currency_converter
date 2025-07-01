@@ -35,4 +35,4 @@ To have an assertive conversion value, update the currency conversion rate at th
 
 ---
 
-By Cíntia Cabral 👋
+By Cíntia Cabral 👋 (Style developed by @Rocketseat)
